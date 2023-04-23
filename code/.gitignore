@@ -7,3 +7,6 @@ python_out.txt
 summary1.txt
 test_ip.txt
 test.txt
+*joblib
+*.pdf
+*.zip
